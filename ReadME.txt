@@ -1,0 +1,1 @@
+This is a demonstration of my ability to write triggers for updating the system based on insert/delete/updates to individual rows.
